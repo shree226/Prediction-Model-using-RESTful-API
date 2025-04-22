@@ -1,4 +1,5 @@
-# techpranee
+Used: FastAPI, Scikit-learn, Joblib, Pandas
 
-I have attached the dataset i used from kaggle as well as an excel file containing output of the model as asked. 
-I have used decision tree modeling.
+Developed a RESTful API using FastAPI to predict machine downtime based on sensor inputs (Temperature, Run Time)
+Trained and deployed a Decision Tree Classifier with endpoints for data upload, model training, and prediction.
+Handled real-time JSON requests for predictions and integrated confidence scoring using model probability outputs.
